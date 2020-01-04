@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa9347f0c51a4b641b4c57d23e8bdfc8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1755361922016518, guid: 98a23a08e9d9d4145a1a15049abe785a, type: 2}
+  - enemy: {fileID: 1596084899573480, guid: ea6d6c55203d2fe459e8db7ac4b3b7e1, type: 2}
+  - bullet: {fileID: 1756742324097328, guid: fd434a676a6822344a512eb7b6ea5c89, type: 2}
+  - explosion: {fileID: 198815657629109162, guid: 4af843d920d9de141a1128bfafbdd843,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
